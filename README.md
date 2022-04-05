@@ -1,7 +1,10 @@
 # Estadisticas--Teoría-y-Prácticas--Gráficas-para-novatos
+
+![image](https://user-images.githubusercontent.com/80054717/161799214-165bd8e3-69f2-4d42-ad79-ac1c77890e07.png)
+
 En siguiente proyecto busqué aclarar mis dudas con respecto a la estadisticas descriptiva y su diferencia con la inferencial, también realizar comentarios que me sirven a mi y tal vez a otro que llegué acá, sobre su interpretación, las gráficas, cuáles se usan en cada caso (cuál conviene) y demás! 
 
-Básicamente tomé la iniciativa para desarrollar de este proyecto, porqué solicitaban bases sólidas sobre estadisticas y probabilidad para un puesto al cuál postulé.
+Básicamente tomé la iniciativa para desarrollar de este proyecto, porqué a un puesto que me postulé solicitaban bases sólidas sobre estadisticas y probabilidad para ser parte de su equipo. Aunqué ya había visto y hechos algunas pruebas, sentía que me faltaba prácticar mucho más respecto a esos ejes! entonces dije, manos a la obra!!! 
 Por lo qué para sentime más segura decidí apostar a mejorar mis prácticas/conocimientos sobre esto, repasando día a día hasta llega al challenge técnico. Más allá de los resultados, siento que con todo esto aprendí mucho! 
 Por eso quería compartir esto para quiénes tambíen estén en la búsqueda de su 1er empleo en Data Science, o simplemente los mueve la curiosad de aprender algo nuevo, repasar e incluso aportar sobre este tema. 
 
