@@ -1,4 +1,4 @@
-# Estadisticas--Teoría-y-Prácticas--Gráficas-para-novatos 🧐
+# Estadisticas teoría y prácticas: Gráficas e interpretación! 🧐
 
 En el siguiente proyecto busqué aclarar/repasar mis dudas con respecto a la estadisticas descriptiva y la inferencial, también realizar comentarios que me sirven a mi y tal vez a otro que llegué acá sobre su interpretación, las gráficas/dimetría y cuáles se usan según sea el caso y demás! 👩🏻 
 
@@ -26,6 +26,8 @@ Las páginas con las que fui mirando un poco de todo para mejorar mi pensamiento
 - técnica de componentes principales
 
 # Tecnologías y librerías utilizadas: 
+![image](https://user-images.githubusercontent.com/80054717/162941926-a9e88b8f-f4a3-4e75-a005-a38bbff49970.png)
+
 Python 3.7:
 - Pandas
 - Numpy 
